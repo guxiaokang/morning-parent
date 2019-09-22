@@ -28,7 +28,7 @@
   </div>
 </c:if>
 <!--     热评产品 end         -->
-<script type="text/javascript">
+<script>
 	/**
 	 * 热评产品图片放大缩小 
 	 */

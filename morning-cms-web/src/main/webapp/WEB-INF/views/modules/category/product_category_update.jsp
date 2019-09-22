@@ -98,9 +98,9 @@
   </div>
 </div>
 <myfooter> 
-  <script src="${ctxsta}/common/switchery/switchery.min.js"></script> 
+  <script src="${ctxsta}/common/switchery/switchery.min.js"></script>
   <!-- 自定义js --> 
-  <script src="${ctxsta}/cms/js/productCategory.js"></script> 
+  <script src="${ctxsta}/cms/js/productCategory.js"></script>
 </myfooter>
 </body>
 </html>

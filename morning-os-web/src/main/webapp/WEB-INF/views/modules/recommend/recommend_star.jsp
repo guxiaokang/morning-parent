@@ -33,7 +33,7 @@
   </div>
 </c:if>
 <!--     明星产品 end         -->
-<script type="text/javascript">
+<script>
 	/**
 	 * 明星产品滚动动画
 	 */

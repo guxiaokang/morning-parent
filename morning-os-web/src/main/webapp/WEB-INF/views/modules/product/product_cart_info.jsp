@@ -29,7 +29,7 @@
   </div>
 </div>
 <myfooter> 
-<script type="text/javascript">
+<script>
 	/**
 	 * 导航分类栏显示及颜色变换
 	 */

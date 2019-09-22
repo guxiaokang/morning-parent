@@ -17,5 +17,3 @@
 <c:set var="ctxsta" value="${pageContext.request.contextPath}/static"/>
 <%--页面显示图片的前缀路径--%>
 <c:set var="ctximg" value="${pageContext.request.contextPath}/uploads"/>
-
-

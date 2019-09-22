@@ -33,7 +33,7 @@
   </div>
 </c:if>
 <!--     新品推荐 end         --> 
-<script type="text/javascript">
+<script>
 	/**
 	 * 新品推荐
 	 */

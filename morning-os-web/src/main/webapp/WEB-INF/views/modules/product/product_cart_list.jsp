@@ -61,12 +61,12 @@
 <!-- 我的购物车end -->
 <myfooter> 
   <script src="${ctxsta}/common/jquery/jquery-2.1.4.min.js"></script>
-  <script src="${ctxsta}/os/js/zySearch.js"></script>	
+  <script src="${ctxsta}/os/js/zySearch.js"></script>
   <!-- iCheck --> 
-  <script src="${ctxsta}/common/icheck/icheck.min.js"></script> 
+  <script src="${ctxsta}/common/icheck/icheck.min.js"></script>
   <!-- layer javascript --> 
-  <script src="${ctxsta}/common/layer/layer.js"></script> 
-  <script src="${ctxsta}/os/js/cart.js"></script> 
+  <script src="${ctxsta}/common/layer/layer.js"></script>
+  <script src="${ctxsta}/os/js/cart.js"></script>
 </myfooter>
 </body>
 </html>/html>

@@ -77,10 +77,10 @@
 
 <myfooter> 
   <!-- 分页js --> 
-  <script src="${ctxsta}/common/pager/jquery.pager.js"></script> 
+  <script src="${ctxsta}/common/pager/jquery.pager.js"></script>
   <!-- layer javascript --> 
-  <script src="${ctxsta}/common/layer/layer.js"></script> 
-  <script type="text/javascript">
+  <script src="${ctxsta}/common/layer/layer.js"></script>
+  <script>
 	var productNumber = ${product.productNumber};
 	var productId = ${product.productId};
   	var pagecount = $('#pager').attr('data-pager-totalPage'); // 总页面数

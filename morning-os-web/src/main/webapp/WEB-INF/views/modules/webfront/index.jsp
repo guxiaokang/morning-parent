@@ -86,7 +86,7 @@
 </div>
 <!--     主产品end       -->
 <myfooter> 
-  <script src="${ctxsta}/os/js/index.js"></script> 
+  <script src="${ctxsta}/os/js/index.js"></script>
 </myfooter>
 </body>
 </html>

@@ -18,7 +18,7 @@
     </div>
   </li>
 </c:forEach>
-<script type="text/javascript">
+<script>
 /**
  * 商品提问点赞
  */

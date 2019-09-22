@@ -296,7 +296,7 @@
 </div>
 <myfooter> 
   <!-- 第三方插件 --> 
-  <script src="${ctxsta}/common/pace/pace.min.js"></script> 
+  <script src="${ctxsta}/common/pace/pace.min.js"></script>
 </myfooter>
 </body>
 </html>

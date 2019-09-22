@@ -103,11 +103,11 @@
 </c:if>
 <myfooter> 
   <!-- layer javascript --> 
-  <script src="${ctxsta}/common/layer/layer.js"></script> 
+  <script src="${ctxsta}/common/layer/layer.js"></script>
   <!-- 分页 javascript --> 
-  <script src="${ctxsta}/common/pager/jquery.pager.js"></script> 
-  <script src="${ctxsta}/os/js/list.js"></script> 
-  <script type="text/javascript">
+  <script src="${ctxsta}/common/pager/jquery.pager.js"></script>
+  <script src="${ctxsta}/os/js/list.js"></script>
+  <script>
 
   	// 收藏商品
   	function add_favorite(obj) {

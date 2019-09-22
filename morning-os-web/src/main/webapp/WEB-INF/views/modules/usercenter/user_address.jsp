@@ -85,16 +85,16 @@
 </div>
 <myfooter> 
   <!-- layer javascript --> 
-  <script src="${ctxsta}/common/layer/layer.js"></script> 
+  <script src="${ctxsta}/common/layer/layer.js"></script>
   <!-- 分页js --> 
-  <script src="${ctxsta}/common/pager/jquery.pager.js"></script> 
+  <script src="${ctxsta}/common/pager/jquery.pager.js"></script>
   <!-- 地址选择 --> 
-  <script src="${ctxsta}/os/area/js/area.js"></script> 
-  <script src="${ctxsta}/os/area/js/location.js"></script> 
-  <script src="${ctxsta}/os/area/js/select2.js"></script> 
-  <script src="${ctxsta}/os/area/js/select2_locale_zh-CN.js"></script> 
-  <script src="${ctxsta}/os/js/address.js"></script> 
-  <script type="text/javascript">
+  <script src="${ctxsta}/os/area/js/area.js"></script>
+  <script src="${ctxsta}/os/area/js/location.js"></script>
+  <script src="${ctxsta}/os/area/js/select2.js"></script>
+  <script src="${ctxsta}/os/area/js/select2_locale_zh-CN.js"></script>
+  <script src="${ctxsta}/os/js/address.js"></script>
+  <script>
 		var pagecount = $('#pager').attr('data-pager-totalPage'); // 总页面数
 		var current = $('#pager').attr('data-pager-current'); // 当前页数
 		var href = $('#pager').attr('data-pager-href'); // 链接地址

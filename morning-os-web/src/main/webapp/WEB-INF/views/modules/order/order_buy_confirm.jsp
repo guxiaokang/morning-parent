@@ -216,8 +216,8 @@
 </div>
 <myfooter> 
   <!-- layer javascript --> 
-  <script src="${ctxsta}/common/layer/layer.js"></script> 
-  <script src="${ctxsta}/os/js/order.js"></script> 
+  <script src="${ctxsta}/common/layer/layer.js"></script>
+  <script src="${ctxsta}/os/js/order.js"></script>
 </myfooter>
 </body>
 </html>

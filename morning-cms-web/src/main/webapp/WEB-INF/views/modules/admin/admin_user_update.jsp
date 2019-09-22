@@ -111,11 +111,11 @@
 </div>
 <myfooter> 
   <!-- iCheck --> 
-  <script src="${ctxsta}/common/icheck/icheck.min.js"></script> 
+  <script src="${ctxsta}/common/icheck/icheck.min.js"></script>
   <!-- bootstrapvalidator-master前端验证框架 --> 
-  <script src="${ctxsta}/common/bootstrapvalidator/js/bootstrapValidator.min.js"></script> 
+  <script src="${ctxsta}/common/bootstrapvalidator/js/bootstrapValidator.min.js"></script>
   <!-- 自定义js --> 
-  <script src="${ctxsta}/cms/js/adminUser.js"></script> 
+  <script src="${ctxsta}/cms/js/adminUser.js"></script>
 </myfooter>
 </body>
 </html>

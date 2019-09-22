@@ -315,12 +315,12 @@
 <div class="modal-backdrop in" style="display: none; width: 100%; height: 1854px;"></div>
 <myfooter> 
   <!-- layer javascript --> 
-  <script src="${ctxsta}/common/layer/layer.js"></script> 
-  <script src="${ctxsta}/os/area/js/area.js"></script> 
-  <script src="${ctxsta}/os/area/js/location.js"></script> 
-  <script src="${ctxsta}/os/area/js/select2.js"></script> 
-  <script src="${ctxsta}/os/area/js/select2_locale_zh-CN.js"></script> 
-  <script src="${ctxsta}/os/js/order.js"></script> 
+  <script src="${ctxsta}/common/layer/layer.js"></script>
+  <script src="${ctxsta}/os/area/js/area.js"></script>
+  <script src="${ctxsta}/os/area/js/location.js"></script>
+  <script src="${ctxsta}/os/area/js/select2.js"></script>
+  <script src="${ctxsta}/os/area/js/select2_locale_zh-CN.js"></script>
+  <script src="${ctxsta}/os/js/order.js"></script>
 </myfooter>
 </body>
 </html>

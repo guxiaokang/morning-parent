@@ -973,7 +973,7 @@
   </div>
 </div>
 <myfooter> 
-  <script type="text/javascript">
+  <script>
 		$(function(){
 			var index = parent.layer.getFrameIndex(window.name); //获取窗口索引
 			var icon;

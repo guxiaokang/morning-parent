@@ -178,16 +178,16 @@
 </div>
 <myfooter> 
   <!-- bootstrapvalidator-master前端验证框架 --> 
-  <script src="${ctxsta}/common/bootstrapvalidator/js/bootstrapValidator.min.js"></script> 
+  <script src="${ctxsta}/common/bootstrapvalidator/js/bootstrapValidator.min.js"></script>
   <!-- Bootstrap table --> 
-  <script src="${ctxsta}/common/bootstrap-table/bootstrap-table.min.js"></script> 
-  <script src="${ctxsta}/common/bootstrap-table/extensions/export/bootstrap-table-export.js"></script> 
-  <script src="${ctxsta}/common/bootstrap-table/tableExport.js"></script> 
-  <script src="${ctxsta}/common/bootstrap-table/locale/bootstrap-table-zh-CN.min.js"></script> 
+  <script src="${ctxsta}/common/bootstrap-table/bootstrap-table.min.js"></script>
+  <script src="${ctxsta}/common/bootstrap-table/extensions/export/bootstrap-table-export.js"></script>
+  <script src="${ctxsta}/common/bootstrap-table/tableExport.js"></script>
+  <script src="${ctxsta}/common/bootstrap-table/locale/bootstrap-table-zh-CN.min.js"></script>
   <!-- iCheck --> 
-  <script src="${ctxsta}/common/icheck/icheck.min.js"></script> 
+  <script src="${ctxsta}/common/icheck/icheck.min.js"></script>
   <!-- 自定义js --> 
-  <script src="${ctxsta}/cms/js/adminUserInfo.js"></script> 
+  <script src="${ctxsta}/cms/js/adminUserInfo.js"></script>
 </myfooter>
 </body>
 </html>

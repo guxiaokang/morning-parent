@@ -31,7 +31,7 @@
     </dl>
   </li>
 </c:forEach>
-<script type="text/javascript">
+<script>
 /**
  * input 聚焦事件
  */

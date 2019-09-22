@@ -81,13 +81,13 @@
 <jsp:include page="/WEB-INF/layouts/web/footer.jsp" />
 
 <!-- 全局js --> 
-<script src="${ctxsta}/common/jquery/jquery-3.2.0.min.js"></script> 
-<script src="${ctxsta}/common/bootstrap/js/bootstrap.min.js"></script> 
+<script src="${ctxsta}/common/jquery/jquery-3.2.0.min.js"></script>
+<script src="${ctxsta}/common/bootstrap/js/bootstrap.min.js"></script>
 <!-- 自定义js --> 
-<script src="${ctxsta}/os/js/zySearch.js"></script> 
-<script src="${ctxsta}/os/js/jump.js"></script> 
-<script src="${ctxsta}/os/js/base.js"></script> 
-<script src="${ctxsta}/os/js/main.js"></script> 
+<script src="${ctxsta}/os/js/zySearch.js"></script>
+<script src="${ctxsta}/os/js/jump.js"></script>
+<script src="${ctxsta}/os/js/base.js"></script>
+<script src="${ctxsta}/os/js/main.js"></script>
 <!-- 第三方插件 -->
 <sitemesh:write property='myfooter' />
 </body>

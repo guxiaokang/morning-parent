@@ -13,6 +13,10 @@ File Encoding         : 65001
 Date: 2017-07-31 00:21:50
 */
 
+CREATE database IF NOT EXISTS pussinboots_morning default character set utf8 collate utf8_general_ci;
+
+USE pussinboots_morning;
+
 SET FOREIGN_KEY_CHECKS=0;
 
 -- ----------------------------

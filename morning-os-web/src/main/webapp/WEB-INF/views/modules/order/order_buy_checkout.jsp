@@ -184,14 +184,14 @@
 </div>
 <myfooter> 
   <!-- layer javascript --> 
-  <script src="${ctxsta}/common/layer/layer.js"></script> 
+  <script src="${ctxsta}/common/layer/layer.js"></script>
   <!-- 地址选择 --> 
-  <script src="${ctxsta}/os/area/js/area.js"></script> 
-  <script src="${ctxsta}/os/area/js/location.js"></script> 
-  <script src="${ctxsta}/os/area/js/select2.js"></script> 
-  <script src="${ctxsta}/os/area/js/select2_locale_zh-CN.js"></script> 
-  <script src="${ctxsta}/os/js/address.js"></script> 
-  <script src="${ctxsta}/os/js/checkout.js"></script> 
+  <script src="${ctxsta}/os/area/js/area.js"></script>
+  <script src="${ctxsta}/os/area/js/location.js"></script>
+  <script src="${ctxsta}/os/area/js/select2.js"></script>
+  <script src="${ctxsta}/os/area/js/select2_locale_zh-CN.js"></script>
+  <script src="${ctxsta}/os/js/address.js"></script>
+  <script src="${ctxsta}/os/js/checkout.js"></script>
 </myfooter>
 </body>
 </html>

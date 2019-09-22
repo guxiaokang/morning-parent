@@ -91,7 +91,7 @@
 </div>
 <myfooter> 
   <!-- 自定义js --> 
-  <script src="${ctxsta}/cms/js/onlineNavigationBar.js"></script> 
+  <script src="${ctxsta}/cms/js/onlineNavigationBar.js"></script>
 </myfooter>
 </body>
 </html>

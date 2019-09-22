@@ -86,16 +86,16 @@
 </div>
 <myfooter> 
   <!-- iCheck --> 
-  <script src="${ctxsta}/common/icheck/icheck.min.js"></script> 
+  <script src="${ctxsta}/common/icheck/icheck.min.js"></script>
   <!-- bootstrapvalidator前端验证框架 --> 
-  <script src="${ctxsta}/common/bootstrapvalidator/js/bootstrapValidator.min.js"></script> 
+  <script src="${ctxsta}/common/bootstrapvalidator/js/bootstrapValidator.min.js"></script>
   <!-- ztree --> 
-  <script src="${ctxsta}/common/ztree/js/jquery.ztree.all.min.js"></script> 
+  <script src="${ctxsta}/common/ztree/js/jquery.ztree.all.min.js"></script>
   <!-- 自定义js --> 
-  <script type="text/javascript">
+  <script>
   		var treedata = '${menus}';
   </script> 
-  <script src="${ctxsta}/cms/js/adminRole.js"></script> 
+  <script src="${ctxsta}/cms/js/adminRole.js"></script>
 </myfooter>
 </body>
 </html>

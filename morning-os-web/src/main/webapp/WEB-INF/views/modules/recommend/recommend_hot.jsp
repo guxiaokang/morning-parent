@@ -71,7 +71,7 @@
   </c:forEach>
 </c:if>
 <!--     主产品区热门分类 end         -->
-<script type="text/javascript">
+<script>
 	/**
 	 * 随机分配产品标签颜色
 	 */

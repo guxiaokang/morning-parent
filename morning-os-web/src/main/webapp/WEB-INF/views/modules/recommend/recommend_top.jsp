@@ -44,7 +44,7 @@
 </c:if>
 <!--     主产品区置顶推荐 end         --> 
 
-<script type="text/javascript">
+<script>
 	/**
 	 * 随机分配产品标签颜色
 	 */

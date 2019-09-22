@@ -123,12 +123,12 @@
 </div>
 <myfooter> 
   <!-- Data picker --> 
-  <script src="${ctxsta}/common/bootstrap-datetimepicker/js/bootstrap-datetimepicker.min.js"></script> 
-  <script src="${ctxsta}/common/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.zh-CN.js"></script> 
-  <script src="${ctxsta}/common/bootstrap-prettyfile/bootstrap-prettyfile.js"></script> 
+  <script src="${ctxsta}/common/bootstrap-datetimepicker/js/bootstrap-datetimepicker.min.js"></script>
+  <script src="${ctxsta}/common/bootstrap-datetimepicker/js/locales/bootstrap-datetimepicker.zh-CN.js"></script>
+  <script src="${ctxsta}/common/bootstrap-prettyfile/bootstrap-prettyfile.js"></script>
   <!-- 自定义js --> 
-  <script src="${ctxsta}/cms/js/onlineAdvertDetail.js"></script> 
-  <script type="text/javascript">
+  <script src="${ctxsta}/cms/js/onlineAdvertDetail.js"></script>
+  <script>
     $(".form_datetime").datetimepicker({
     	language:  'zh-CN',
         format: "yyyy-mm-dd hh:ii:ss",

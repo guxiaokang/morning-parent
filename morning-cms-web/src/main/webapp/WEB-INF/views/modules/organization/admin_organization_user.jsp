@@ -38,7 +38,7 @@
   </div>
 </div>
 <myfooter> 
-  <script type="text/javascript">
+  <script>
         $(document).ready(function () {
             $('.contact-box').each(function () {
                 animationHover(this, 'pulse');

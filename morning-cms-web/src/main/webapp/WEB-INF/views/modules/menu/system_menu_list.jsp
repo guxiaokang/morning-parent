@@ -67,8 +67,8 @@
   </div>
 </div>
 <myfooter> 
-  <script src="${ctxsta}/common/treeTable/jquery.treeTable.min.js"></script> 
-  <script src="${ctxsta}/cms/js/systemMenuList.js"></script> 
+  <script src="${ctxsta}/common/treeTable/jquery.treeTable.min.js"></script>
+  <script src="${ctxsta}/cms/js/systemMenuList.js"></script>
 </myfooter>
 </body>
 </html>

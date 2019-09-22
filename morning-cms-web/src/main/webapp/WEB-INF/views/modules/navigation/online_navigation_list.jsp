@@ -72,12 +72,12 @@
 </div>
 <myfooter> 
   <!-- Bootstrap table --> 
-  <script src="${ctxsta}/common/bootstrap-table/bootstrap-table.min.js"></script> 
-  <script src="${ctxsta}/common/bootstrap-table/extensions/export/bootstrap-table-export.js"></script> 
-  <script src="${ctxsta}/common/bootstrap-table/tableExport.js"></script> 
-  <script src="${ctxsta}/common/bootstrap-table/locale/bootstrap-table-zh-CN.min.js"></script> 
+  <script src="${ctxsta}/common/bootstrap-table/bootstrap-table.min.js"></script>
+  <script src="${ctxsta}/common/bootstrap-table/extensions/export/bootstrap-table-export.js"></script>
+  <script src="${ctxsta}/common/bootstrap-table/tableExport.js"></script>
+  <script src="${ctxsta}/common/bootstrap-table/locale/bootstrap-table-zh-CN.min.js"></script>
   <!-- 自定义js --> 
-  <script src="${ctxsta}/cms/js/onlineNavigation.js"></script> 
+  <script src="${ctxsta}/cms/js/onlineNavigation.js"></script>
 </myfooter>
 </body>
 </html>

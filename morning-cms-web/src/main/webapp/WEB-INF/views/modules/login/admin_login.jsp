@@ -35,9 +35,9 @@
     <p><span id="showsectime"></span></p>
   </dd>
 </dl>
-<script src="${ctxsta}/common/jquery/jquery-3.2.0.min.js"></script> 
-<script src="${ctxsta}/common/layer/layer.js"></script> 
-<script src="${ctxsta}/common/particleground/js/jquery.particleground.min.js"></script> 
+<script src="${ctxsta}/common/jquery/jquery-3.2.0.min.js"></script>
+<script src="${ctxsta}/common/layer/layer.js"></script>
+<script src="${ctxsta}/common/particleground/js/jquery.particleground.min.js"></script>
 <script src="${ctxsta}/cms/js/login.js"></script>
 </body>
 </html>

@@ -103,10 +103,10 @@
 
 <myfooter> 
   <!-- 分页js --> 
-  <script src="${ctxsta}/common/pager/jquery.pager.js"></script> 
+  <script src="${ctxsta}/common/pager/jquery.pager.js"></script>
   <!-- layer javascript --> 
-  <script src="${ctxsta}/common/layer/layer.js"></script> 
-  <script type="text/javascript">
+  <script src="${ctxsta}/common/layer/layer.js"></script>
+  <script>
   	var pagecount = $('#pager').attr('data-pager-totalPage'); // 总页面数
   	var current = $('#pager').attr('data-pager-current'); // 当前页数
   	var href = $('#pager').attr('data-pager-href'); // 链接地址

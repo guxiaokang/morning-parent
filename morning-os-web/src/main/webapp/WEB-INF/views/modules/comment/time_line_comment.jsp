@@ -12,7 +12,7 @@
     <div class="line-dot"></div>
   </li>
 </c:forEach>
-<script type="text/javascript">
+<script>
 /**
  * 随机分配评论颜色（最新评论）
  */

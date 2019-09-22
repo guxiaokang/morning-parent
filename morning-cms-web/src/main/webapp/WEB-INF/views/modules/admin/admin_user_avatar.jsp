@@ -73,10 +73,10 @@
   </div>
 </div>
 <div class="loading" aria-label="Loading" role="img" tabindex="-1"></div>
- <script src="${ctxsta}/common/jquery/jquery-2.1.4.min.js"></script> 
+ <script src="${ctxsta}/common/jquery/jquery-2.1.4.min.js"></script>
  <script src="${ctxsta}/common/bootstrap/js/bootstrap.min.js"></script>
  <!-- 头像 --> 
- <script src="${ctxsta}/common/cropper/js/cropper.min.js"></script> 
- <script src="${ctxsta}/common/sitelogo/sitelogo.js"></script> 
+ <script src="${ctxsta}/common/cropper/js/cropper.min.js"></script>
+ <script src="${ctxsta}/common/sitelogo/sitelogo.js"></script>
 </body>
 </html>

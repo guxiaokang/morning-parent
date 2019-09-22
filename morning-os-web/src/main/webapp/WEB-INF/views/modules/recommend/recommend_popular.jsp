@@ -37,7 +37,7 @@
   </div>
 </c:if>
 <!--     为你推荐 end         -->
-<script type="text/javascript">
+<script>
 	/**
 	 * 为你推荐
 	 */

@@ -72,7 +72,7 @@
 </div>
 <myfooter> 
   <!-- 自定义js --> 
-  <script src="${ctxsta}/cms/js/onlineNavigation.js"></script> 
+  <script src="${ctxsta}/cms/js/onlineNavigation.js"></script>
 </myfooter>
 </body>
 </html>

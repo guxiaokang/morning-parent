@@ -103,10 +103,10 @@
 </c:if>
 <myfooter> 
   <!-- layer javascript --> 
-  <script src="${ctxsta}/common/layer/layer.js"></script> 
+  <script src="${ctxsta}/common/layer/layer.js"></script>
   <!-- 分页js --> 
-  <script src="${ctxsta}/common/pager/jquery.pager.js"></script> 
-  <script src="${ctxsta}/os/js/list.js"></script> 
+  <script src="${ctxsta}/common/pager/jquery.pager.js"></script>
+  <script src="${ctxsta}/os/js/list.js"></script>
 </myfooter>
 </body>
 </html>

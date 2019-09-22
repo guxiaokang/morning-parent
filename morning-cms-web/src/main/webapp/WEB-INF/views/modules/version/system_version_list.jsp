@@ -52,7 +52,7 @@
   </div>
 </div>
 <myfooter> 
-  <script src="${ctxsta}/cms/js/systemVersionList.js"></script> 
+  <script src="${ctxsta}/cms/js/systemVersionList.js"></script>
 </myfooter>
 </body>
 </html>

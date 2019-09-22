@@ -314,8 +314,8 @@
 </c:if>
 <myfooter> 
   <!-- layer javascript --> 
-  <script src="${ctxsta}/common/layer/layer.js"></script> 
-  <script src="${ctxsta}/os/js/goodsDetail.js"></script> 
+  <script src="${ctxsta}/common/layer/layer.js"></script>
+  <script src="${ctxsta}/os/js/goodsDetail.js"></script>
   <script>
 //价格json
 var sys_item=${productSpecifications};
